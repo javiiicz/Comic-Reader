@@ -1,0 +1,21 @@
+[{"info": {"nombre": "", "autor": "", "fecha": "", "descripcion": "", "prefijo": ""}, "escenas": [] }]
+
+
+cada escena es:
+
+{"pag": "", "num": "", "imagen": "", "dialogos": []}
+ # La imagen se saca de la pag y num, todos los archivos se llaman igual
+
+cada diálogo es:
+{"personaje": "", "contenido": ""}
+
+
+{"nombre": """", "edad": """", "cumple": """", "lugar de origen": """", "afiliaciones": """", "habilidades": """", "historia": """", "aliados": """", "enemigos": """"}
+
+
+[{"nombre": "Peter Parker", "edad": "15", "cumple": "10 Agosto", "lugar de origen": "Queens, Nueva York", "afiliaciones": "Vengadores, 4 Fantasticos, Daily Bugle, Tio Ben y Tia May", "habilidades": "Fuerza, velocidad, durabilidad, poderes aracnidos, agilidad, sentidos, reflejos, coordinacion, equilibrio y resistencia sobrehumana", "historia": "Peter Parker es un estudiante de secundaria que vive con sus tios despues de que sus padres murieran en un accidente. Durante una visita a un laboratorio, es mordido por una arana radiactiva y adquiere habilidades sobrehumanas. Despues de la muerte de su tio Ben, Peter se da cuenta de que 'un gran poder conlleva una gran responsabilidad' y se convierte en Spider-Man.", "aliados": "Antorcha Humana, Daredevil, Gata Negra, Arana Escarlata, Deadpool, Wolverine, Iron Man, Capitan America", "enemigos": "Duende Verde, Doctor Octopus, Venom, Hombre de Arena, Lagarto, Electro, Rhino, El Buitre"},
+
+{"nombre": "Tia May", "edad": "50+", "cumple": "5 Mayo", "lugar de origen": "Brooklyn, Nueva York", "afiliaciones": "Industrias Parker, J. Jonah Jameson Sr", "habilidades": "-", "historia": "Tia May es la tia paterna de Peter Parker, quien se convirtio en Spider-Man despues de ser mordido por una arana radioactiva. Ella lo crio junto con su esposo Ben Parker, quien fue asesinado por un ladron. Ella siempre ha sido una influencia positiva y un apoyo para Peter, aunque no siempre ha sabido de su vida secreta como superheroe.", "aliados": "Peter Parker/Spider-Man, Ben Parker, J. Jonah Jameson", "enemigos": "Doctor Octopus, Duende Verde, Buitre"},
+
+{"nombre": "J. Jonah Jameson", "edad": "Mediana Edad", "cumple": "-", "lugar de origen": "Manhattan, Nueva York", "afiliaciones": "Daily Bugle, Parker Industries", "habilidades": "-", "historia": "J. Jonah Jameson es el editor jefe del periodico Daily Bugle, donde trabaja Peter Parker como fotografo. Es famoso por su campana difamatoria contra Spider-Man, a quien considera una amenaza y un farsante. A pesar de su actitud grunona y autoritaria, tambien tiene un lado noble y compasivo que a veces muestra hacia sus empleados y familiares.", "aliados": "Peter Parker/Spider-Man, Ben Urich, Robbie Robertson, Betty Brant, Marla Madison-Jameson, J. Jonah Jameson Jr., John Jameson/Man-Wolf", "enemigos": "Spider-Man, Duende Verde, Alistair Smythe, Scorpion, Kingpin, Electro"}
+]
